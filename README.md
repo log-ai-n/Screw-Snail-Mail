@@ -1,4 +1,4 @@
-# Desk-Mail-Bot: Show-and-Tell Mail Processor
+# Screw-Snail-Mail: Show-and-Tell Mail Processor
 
 A simple application that captures physical mail through your webcam, processes it via OCR and Gemini AI, and logs the important details to a spreadsheet.
 
