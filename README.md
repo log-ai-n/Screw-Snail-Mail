@@ -1,6 +1,10 @@
-# Screw-Snail-Mail: Show-and-Tell Mail Processor
+# Anti-Postal: Show-and-Tell Mail Processor
 
 A simple application that captures physical mail through your webcam, processes it via OCR and Gemini AI, and logs the important details to a spreadsheet.
+
+"Screw Snail Mail": Because waiting for snail mail is soooo 1999. 🐌📬 This Python-powered project is like a supercharged secretary for your physical mailbox. It captures, analyzes, and organizes your mail using computer vision and AI—think of it as giving your mail the Tony Stark Jarvis treatment! 🕶️🤖
+
+With 95.7% Python and a dash of Shell scripting flair, this tool is here to ensure your bills, postcards, and coupons get the digital VIP treatment they deserve. No more piles of paper or guessing what's in the envelope—the AI's got it handled. So, screw snail mail and let this project take your clutter and turn it into digital harmony! 🎉📄✨
 
 ## Overview
 
