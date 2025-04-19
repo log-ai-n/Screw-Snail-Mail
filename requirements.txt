@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+pillow>=10.0.0
+pytesseract>=0.3.10
+google-generativeai>=0.3.0
+rich>=13.5.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.0

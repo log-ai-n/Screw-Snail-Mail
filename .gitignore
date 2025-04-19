@@ -1,0 +1,60 @@
+# Environment variables and credentials
+.env
+*.env
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+
+# Mail data - exclude personal mail images but keep structure
+mail_data/images/*.jpg
+mail_data/images/*.jpeg
+mail_data/images/*.png
+mail_data/mail_log_*.csv
+# Only include the sample mail log and empty error log file
+# mail_data/mail_log.csv
+# mail_data/error_log.json
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
